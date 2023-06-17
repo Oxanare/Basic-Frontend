@@ -1,0 +1,16 @@
+.a1:hover{
+    color: hotpink;
+    text-decoration:line-through;
+}
+
+.a2:hover{
+    color: red;
+    border: 3px solid black;
+    text-decoration: underline;
+}
+
+.a3:hover{
+    color: fuchsia;
+    text-decoration:overline underline ;
+    border: 5px double gold;
+}
